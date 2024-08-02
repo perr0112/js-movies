@@ -2,7 +2,7 @@
 
 ## Auteur
 
-Clément Perrot - INFS3-TP3A
+Clément - INFS3-TP3A
 
 ## Installation / Configuration
 

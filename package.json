@@ -13,7 +13,7 @@
     "build:watch": "npx webpack --mode=production --watch"
   },
   "keywords": [],
-  "author": "Clément Perrot",
+  "author": "Clément",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.23.2",
